@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 * **Languages**: Python (Pandas, Paramiko, Psycopg2), SQL
-* **Cloud/Data**: Google Cloud Platform (Vertex AI, BigQuery, GCS, Pub/Sub), AWS RDS
+* **Cloud/Data**: Google Cloud Platform (Vertex AI, BigQuery, GCS, Pub/Sub, Cloud Run), AWS RDS
 * **Ad-Tech**: Meta CAPI (S2S), Naver GFA Automation (Playwright), Ad APIs Integration
 * **Tools**: Tableau, Google Sheets API, Zapier
 
