@@ -10,7 +10,7 @@
 
 ## 🛠️ System Architecture & Workflow
 
-![GFA Automation Architecture](./gfa-non API.png)
+![GFA Automation Architecture](./gfa-non%20API.png)
 
 ### Phase 1: Session Persistence Bridge (세션 유지 브릿지)
 1. **Manual Session Capture**: 로컬 환경에서 사내 공용 계정으로 최초 1회 수동 로그인 수행.
