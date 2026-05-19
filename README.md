@@ -40,13 +40,13 @@
 3. [**03. GFA 수집 자동화**](./03-gfa-crawling-automation)
    - API 미지원 환경을 극복한 Headless Browser 기반 광고 데이터 스크래핑 자동화
 4. [**04. 재구매 코호트 분석**](./04-repurchase-cohort-analysis)
-   - 7단계 페르소나 정의 및 비즈니스 성장을 위한 '120일 생존 법칙' 도출
+   - 7단계 페르소나 정의 및 고객 안착을 위한 장기 리텐션 임계점 도출
 5. [**05. 회계 매출 자동화 엔진**](./05-accounting-revenue-automation)
    - Python `explode()` 가중치 분배 로직 기반 일 단위 수익 인식 모델 설계
 6. [**06. 웹 퍼널 분석 및 데이터 기반 CRO 런칭**](./06-web-funnel-conversion-analysis)
    - 원천 행동 로그 분석 기반 퍼널 이탈 병목 진단 및 타깃 소구형 신규 랜딩페이지 배포 완료
-
----
+7. [**07. 유저 행동 로그 기반 오프라인 공간 리텐션 및 프로모션 환불 분석**](./07-growth-retention-analytics)
+   - 결제 시점 코호트와 지점별 이용 여정 분석을 통한 프로모션 및 리텐션 검증---
 
 ## 📬 Contact
 
