@@ -86,7 +86,7 @@
 
 | 공유오피스 1인실 고정비 부담 소구 | 재택근무 숨은 기회비용 청구서 소구 |
 | :---: | :---: |
-| ![고정비 소구](./live-ad-fixed-cost.png) | ![기회비용 소구](./live-ad-opportunity-cost.png) |
+| <img src="./live-ad-fixed-cost.png" height="450"> | <img src="./live-ad-opportunity-cost.png" height="450"> |
 
 ---
 
