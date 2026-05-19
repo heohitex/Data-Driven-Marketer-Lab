@@ -8,7 +8,7 @@
 
 본 저장소는 데이터 소싱부터 모델링, 시각화 및 자동화 액션까지 연결된 전체 마케팅 데이터 파이프라인의 구축 사례를 담고 있습니다.
 
-![Integrated Architecture](./01-api-data-pipeline/data-pipeline.jpg)
+![Integrated Architecture](./01-api-data-pipeline/data-pipeline.png)
 
 ### 💡 Core Business Impact
 
