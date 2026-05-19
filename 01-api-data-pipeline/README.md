@@ -16,7 +16,7 @@
 
 ## 🏗️ 시스템 아키텍처
 
-![Data Pipeline Architecture](./data-pipeline.jpg)
+![Data Pipeline Architecture](./data-pipeline.png)
 
 ### 1. Data Ingestion (마케팅 데이터 수집)
 * **AWS Database**: 인터넷이 차단된 보안망 내 RDS에서 `SSH 터널링` 기반으로 파이브스팟 결제 원장 및 유저 마스터 데이터 추출.
