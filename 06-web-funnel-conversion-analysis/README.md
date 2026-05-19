@@ -87,7 +87,7 @@
 
 신규 랜딩페이지 배포 이후, 누적되는 유입 트렌드에 맞추어 카피라이팅 최적화 실험을 신속하게 전개할 수 있도록 기획 단계에서부터 구조를 분리했습니다.
 
-![Landing Page Structure](./06-web-funnel-conversion-analysis/ab-testing-framework.png)
+![Landing Page Structure](./ab-testing-framework.png)
 
 * **가변 영역 (1~2번 섹션)**:
   * 초반 이탈률 2.5배 개선을 목적으로 유저 타깃 유형에 따라 상단 히어로 카피(비용 절감형, 접근성 강조형, 감성/FOMO 자극형)를 유연하게 교체 실험해 볼 수 있는 영역입니다.
