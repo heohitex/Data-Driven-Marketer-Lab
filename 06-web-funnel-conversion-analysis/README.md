@@ -51,4 +51,4 @@
 ## 💻 Repository Structure
 
 * `web-funnel-conversion-analysis.ipynb`: 웹 클릭스트림 원천 데이터 가공, 유저 행동 시퀀싱 모델링, 상품별 퍼널 매트릭스 추출 알고리즘을 포함한 종합 분석 소스코드.
-* `deployed-landing-page-solo-entrepreneur.jpg`: 데이터 인사이트(가격 중심 진입 시 2.5배 이탈)를 UI/UX 관점으로 완벽하게 풀어낸 **최종 배포(Deployed) 랜딩페이지 모바일 스크린샷**.
+* `deployed-landing-page-solo-entrepreneur.png`: 데이터 인사이트(가격 중심 진입 시 2.5배 이탈)를 UI/UX 관점으로 완벽하게 풀어낸 **최종 배포(Deployed) 랜딩페이지 모바일 스크린샷**.
