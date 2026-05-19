@@ -35,8 +35,8 @@
 
 1. [**01. 파이브스팟 다채널 기여도 분석(MTA) 및 마케팅 자동화**](./01-api-data-pipeline)
    - 파편화된 데이터 통합 및 소재 레벨까지 추적 가능한 다채널 기여도(First/Last/Linear) 분석 파이프라인
-2. [**02. S2S 전환 트래킹 시스템 (Meta CAPI 고도화)**](./02-s2s-conversion-tracking)
-   - 쿠키리스 및 웹-앱 데이터 단절 환경 대응을 위한 식별자 역추적 서버 간 직접 연동 시스템
+2. [**02. S2S 전환 트래킹 시스템 (다중 매체 통합 고도화)**](./02-s2s-conversion-tracking)
+   - 쿠키리스 및 웹-앱 데이터 단절 대응을 위한 식별자 역추적 기반의 다중 매체(Meta, Google, Kakao) S2S Fan-out 전송 시스템
 3. [**03. GFA 수집 자동화**](./03-gfa-crawling-automation)
    - API 미지원 환경을 극복한 Headless Browser 기반 광고 데이터 스크래핑 자동화
 4. [**04. 재구매 코호트 분석**](./04-repurchase-cohort-analysis)
