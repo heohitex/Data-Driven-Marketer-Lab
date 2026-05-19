@@ -45,7 +45,7 @@
 
 상기 분류 기준을 토대로 신규 유입 고객 데이터를 매핑하여 도출한 세그먼트별 핵심 성과 지표 리포트입니다.
 
-![Cohort Analysis Results](./cohort-analysis.png)
+![Cohort Analysis Results](./코호트.png)
 
 ---
 
