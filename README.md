@@ -42,8 +42,8 @@
    - 7단계 페르소나 정의 및 '120일 생존 법칙' 도출
 5. [**05. 회계 매출 자동화 엔진**](./05-accounting-revenue-automation)
    - Python `explode()` 기반 일 단위 수익 인식 엔진 설계
-6. [**06. 웹 퍼널 분석 및 데이터 기반 CRO 배포**](./06-web-funnel-conversion-analysis)
-   - 원천 클릭스트림 로그 시퀀싱 기반 퍼널 병목 진단 및 페르소나 맞춤형 라이브 랜딩페이지 직접 구현 및 최종 배포 완료
+6. [**06. 웹 퍼널 분석 및 데이터 기반 CRO 런칭 (Cross-functional)**](./06-web-funnel-conversion-analysis)
+   - 원천 행동 로그 시퀀싱 기반 이탈 보틀넥 진단 및 디자이너/퍼블리셔 협업을 통한 페르소나 소구형 신규 랜딩페이지 배포 완료
 
 ---
 
