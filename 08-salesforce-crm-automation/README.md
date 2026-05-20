@@ -1,6 +1,12 @@
 # 🚀 공유오피스 1인실 드랍 유저 CRM 문자 자동 발송 시스템
 
-세일즈포스의 드랍 고객 데이터를 기반으로 구글 시트의 CRM 메시지 템플릿을 매핑하여, 솔라피를 통해 개인화된 LMS 문자를 자동 발송하고 발송 로그를 관리하는 데이터 파이프라인 시스템입니다.
+세일즈포스(Salesforce)의 드랍 고객 데이터를 기반으로 구글 시트의 CRM 메시지 템플릿을 매핑하여, 솔라피(Solapi)를 통해 개인화된 LMS 문자를 자동 발송하고 발송 로그를 관리하는 데이터 파이프라인 시스템입니다.
+
+---
+
+## 🏗️ 시스템 아키텍처 (System Architecture)
+
+![AI-Powered SMS Messaging System Architecture](./crm_system_architecture.png)
 
 ---
 
