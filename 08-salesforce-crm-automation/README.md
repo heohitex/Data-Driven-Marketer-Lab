@@ -47,3 +47,7 @@
 * **BigQuery 적재 가공 완료**: 로그 추적용 필수 컬럼과 발송 시각(`SentAt`)을 추가하고 문자열(String) 형태로 타입을 일치시켜 빅쿼리에 즉시 적재할 수 있도록 준비해 둔 상태입니다.
 
 ---
+## 📂 파일 구조 (File Structure)
+
+* **`salesforce_to_solapi.ipynb`**: 세일즈포스 리드 데이터 추출, KST 타임존 변환, 드랍 사유별 템플릿 매핑 및 솔라피 API 연동 메인 소스코드.
+* **`crm_system_architecture.png`**: Vertex AI 중심의 데이터 흐름 및 컴포넌트 간 상호작용을 시각화한 시스템 아키텍처 다이어그램 이미지.
