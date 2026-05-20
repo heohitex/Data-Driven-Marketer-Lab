@@ -45,8 +45,9 @@
    - Python `explode()` 가중치 분배 로직 기반 일 단위 수익 인식 모델 설계
 6. [**06. 웹 퍼널 분석 및 데이터 기반 CRO 런칭**](./06-web-funnel-conversion-analysis)
    - 원천 행동 로그 분석 기반 퍼널 이탈 병목 진단 및 타깃 소구형 신규 랜딩페이지 배포 완료
-7. [**07. 프로모션별 환불·재구매 및 지점별 리텐션 기여도 분석**](./07-growth-retention-analytics)
-   - 프로모션 조건별 환불 패턴과 지점별 매출 및 유저 정착 효과 분석
+8. [**08. B2B 드랍 리드 연계 B2C 커머스 크로스셀 CRM 자동 발송 시스템**](./08-salesforce-crm-automation)
+   - Salesforce 내 B2B 오피스 드랍 리드를 실시간 추출·가공하여 B2C 커머스 상품으로 크로스셀링하는 Vertex AI 기반 LMS 발송 및 BigQuery 적재 파이프라인
+
 
 ## 📬 Contact
 
