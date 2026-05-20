@@ -13,7 +13,7 @@
 | **Storage & Auth** | Google Cloud Storage (GCS) | 구글 API 인증에 필요한 서비스 계정 Key 관리 |
 | **CRM Template** | Google Sheets | 마케팅 메시지 템플릿 관리 및 최종 발송 결과 백업 |
 | **Messaging API** | Solapi | HMAC-SHA256 시그니처 인증 기반 대량 LMS 문자 발송 |
-| **Data Warehouse** | Google BigQuery (준비 중) | 최종 발송 로그 및 Raw 데이터 적재 (Data Lake) |
+| **Data Warehouse** | Google BigQuery | 최종 발송 로그 및 Raw 데이터 적재 (Data Lake) |
 
 ---
 
